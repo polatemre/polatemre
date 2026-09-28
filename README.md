@@ -6,5 +6,4 @@ I build web backends and frontends with .NET and Angular, and mobile apps with F
 - 📱 Mobile: Flutter, Dart, Kotlin, Android (Gradle, AGP, R8), Google Play Console
 - 🌐 Web: .NET, C#, Angular, TypeScript
 - 🗄️ Data: PostgreSQL, MSSQL, Supabase
-- ✍️ Writing: [dev.to/devemrep](https://dev.to/devemrep)
 - 📫 devemrep@gmail.com
